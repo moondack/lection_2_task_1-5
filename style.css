@@ -1,0 +1,45 @@
+.img-no-repeat{
+    background: url(img/images\ \(1\).jpg) no-repeat ;
+    color: white;
+
+}
+
+.img-with-repeat{
+    background: url(img/images\ \(1\).jpg) repeat-x;
+}
+
+.scruglennyi{
+    border-radius: 100px;
+}
+
+.prozrachniy{
+filter: brightness(0.8) contrast(10) blur(10px);
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.cherno-beliy{
+    opacity: 30%;
+}
+
+.scruglennyi-1{
+    position: absolute;
+    left: 100px;
+    bottom: 50px;
+}
+
+.scruglennyi-2{
+    position: absolute;
+    left: 120px;
+    bottom: 30px;
+}
+
+.scruglennyi-3{
+    position: absolute;
+    left: 140px;
+    bottom: 10px;
+}
